@@ -64,26 +64,6 @@ Secure REST API for managing events, venues, and attendees.
 
 ---
 
-### 📚 FinLearn
-
-Finance learning platform with authentication and server-rendered content.
-
-* Passport authentication & session management
-* MongoDB with Mongoose
-* EJS templating
-
-🔗 https://github.com/Hselit/finlearn
-
----
-
-## 📈 What I'm Focused On
-
-* Designing **production-ready backend systems**
-* Writing **clean, maintainable, scalable code**
-* Learning **system design and performance optimization**
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/tilesh-t-k/*
